@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Justice
 
 Law firm themed business template for Jekyll. Browse through a [live demo](https://grey-grouse.cloudvent.net/).
@@ -76,3 +77,6 @@ Justice is already optimised for adding, updating and removing pages, staff, pos
 
 * Reused around the site to save multiple editing locations.
 * Set in the *Data* / *Company* section.
+=======
+# Portfolio.github.io
+>>>>>>> cc5d8d4f582593d04e5863c0cefd032c34278d19
