@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gem install "jekyll-theme-prologue"
+gem 'jekyll-theme-prologue', '~> 0.3.3'
