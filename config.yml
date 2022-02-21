@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://mingyokang.github.io/art.github.io/"
 title: 'Planty'
 init_js: js/main.js
 page_load_js: js/page_load.js
